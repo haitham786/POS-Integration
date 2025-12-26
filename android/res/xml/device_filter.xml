@@ -1,0 +1,12 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Prolific PL2303 -->
+    <usb-device vendor-id="1659" product-id="8963" />
+    <!-- FTDI Devices -->
+    <usb-device vendor-id="1027" product-id="24577" />
+    <!-- Standard CDC ACM (Generic POS) -->
+    <usb-device class="2" subclass="2" protocol="1" />
+    <!-- Generic Serial/HID POS -->
+    <usb-device vendor-id="1155" product-id="22336" />
+</resources>

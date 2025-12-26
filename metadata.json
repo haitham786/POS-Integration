@@ -1,0 +1,15 @@
+{
+  "name": "Oman Charity Kiosk POS Integration",
+  "description": "Native-ready Kiosk app for POS hardware integration via USB Serial.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "android": {
+    "permissions": [
+      "android.permission.USB_PERMISSION",
+      "android.hardware.usb.host"
+    ]
+  },
+  "orientation": "portrait"
+}
